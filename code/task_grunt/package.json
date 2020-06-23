@@ -1,0 +1,54 @@
+{
+  "name": "grunt_task",
+  "version": "0.1.0",
+  "private": true,
+  "description": "",
+  "keywords": [
+    "grunt",
+    "henji-1122"
+  ],
+  "homepage": "https://github.com/henji-1122",
+  "bugs": {
+    "url": "https://github.com/henji-1122"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/henji-1122"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "wxc",
+    "email": "2475886163@qq.com",
+    "url": "https://github.com/henji-1122"
+  },
+  "scripts": {},
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  ],
+  "dependencies": {
+    "bootstrap": "4.4.1",
+    "jquery": "3.4.1",
+    "popper.js": "1.16.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "babel": "^6.23.0",
+    "grunt": "^1.1.0",
+    "grunt-babel": "^8.0.0",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-imagemin": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.1.0",
+    "load-grunt-tasks": "^5.1.0",
+    "sass": "^1.26.8"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
